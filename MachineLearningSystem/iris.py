@@ -1,4 +1,4 @@
-from matpotlib import pyplot as plt 
+from matplotlib import pyplot as plt 
 from sklearn.datasets import load_iris
 
 data= load_iris()
