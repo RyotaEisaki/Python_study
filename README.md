@@ -1,5 +1,4 @@
 # Python
-Repository for studying Python
 
 ### References
 * [入門Python3](https://www.amazon.co.jp/%E5%85%A5%E9%96%80-Python-3-Bill-Lubanovic/dp/4873117380/ref=sr_1_1?adgrpid=51694709245&gclid=CjwKCAiAqqTuBRBAEiwA7B66hWyEbLzHj33AEScytWGr6EtNo15oi0N4cT9dR4Mg8PIWo91GCB4z1RoCsEgQAvD_BwE&hvadid=338576532191&hvdev=c&hvlocphy=1009180&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=15974419678489675507&hvtargid=aud-759242200006%3Akwd-335001013095&hydadcr=15819_11177362&jp-ad-ap=0&keywords=%E5%85%A5%E9%96%80python3&qid=1573478027&sr=8-1)
